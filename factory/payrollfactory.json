@@ -1,0 +1,9 @@
+{
+	"name": "payrollfactory",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ba53d7fd-57bb-4efc-9b88-3d4f3488fe52",
+		"tenantId": "08c8c9f2-90a0-4b25-a41a-87d757e66f41"
+	}
+}
